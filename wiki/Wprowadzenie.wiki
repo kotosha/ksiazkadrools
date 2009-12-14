@@ -1,0 +1,12 @@
+#summary Przygotowania do rozpoczęcia projektu
+#labels Phase-Requirements
+
+= Wprowadzenie =
+
+Rozdział zawiera podział obowiązków między autorów, rozwiązanie aspektów instalacyjnych i ustalenie jednakowych wersji systemu.
+
+
+= Szczegóły =
+
+  * środowisko programistyczne *Eclipse - Ganymede*
+  * wersja silnika Drools *5.0*
